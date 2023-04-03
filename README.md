@@ -1,4 +1,4 @@
-Restaurant Management (GUI using tkinter)
+# Restaurant Management (GUI using tkinter)
 <br />
 <img src="https://i.ibb.co/19RQ4L7/rm.png" alt="restaurant management">
 <br />
